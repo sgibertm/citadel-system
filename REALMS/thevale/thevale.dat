@@ -1,0 +1,11 @@
+TheVale
+/thevale
+2
+192.168.1.5
+8854
+--- ROUTES ---
+DEFAULT 192.168.1.5 8853
+Arryn *.*.*.* 0
+Blackwood *.*.*.* 0
+Cole *.*.*.* 0
+Dragonstone 192.168.1.5 8853

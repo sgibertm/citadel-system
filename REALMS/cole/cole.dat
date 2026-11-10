@@ -1,0 +1,11 @@
+Cole
+/cole
+1
+192.168.1.4
+8852
+--- ROUTES ---
+DEFAULT 192.168.1.4 8851
+Arryn *.*.*.* 0
+Blackwood 192.168.1.4 8851
+Dragonstone *.*.*.* 0
+TheVale *.*.*.* 0

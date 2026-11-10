@@ -1,0 +1,11 @@
+Dragonstone
+/dragonstone
+1
+192.168.1.5
+8853
+--- ROUTES ---
+DEFAULT *.*.*.* 0
+Arryn *.*.*.* 0
+Blackwood 192.168.1.4 8851
+Cole *.*.*.* 0
+TheVale 192.168.1.5 8854
